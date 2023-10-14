@@ -1,26 +1,10 @@
 # HacktoberFest 2023 `OPEN FIRST` Pull Request 🎉 
 
-## This Repository is Excluded from Hacktoberfest
-
-📢 This repository is not eligible for Hacktoberfest. If you're looking for a repository to contribute to and participate in Hacktoberfest, please check out our [new repository](https://github.com/ossamamehmood/Hacktoberfest2023) to make your contributions count!
-
-### [Link to New Hacktoberfest-Eligible Repository](https://github.com/ossamamehmood/Hacktoberfest2023)
-
----
 
 # HacktoberFest  `OPEN FIRST` Pull Request 🎉 
 ![HacktoberFest](https://github.com/ossamamehmood/Hacktoberfest/raw/main/.github/logo.png)
 
 
-## Contributors of `Hacktoberfest`
-
-<div align="center">
-
-<a href="https://github.com/ossamamehmood/Hacktoberfest/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=ossamamehmood/Hacktoberfest" />
-</a>
-  
-  </div>
 
 ## This Project Is Perfect For Your First Pull Request
 
@@ -50,95 +34,4 @@
 - Add your files (`git add -A`), commit (`git commit -m "added myself"`), and push (`git push origin new-user`)
 - Create a pull request.
 - Star this repository.
-
-# How To Make Your First Pull Request
-
-Replace `<YOUR-USERNAME>` with your GitHub username in this guide.
-
-## 1. Add your profile picture to the folder
-
-Add a picture of your choice in `static/images/`. Accepted files are **png** and **jpg**, should be squared and minimum size 544x544 pixels. Ex.
-
-```
-static/images/<YOUR-USERNAME>.png
-
-![owais](https://github.com/syedowaisalishah/Hacktoberfest/assets/113125582/29d03bdc-3d4f-42c6-a3ea-15197bd26440)
-```
-
-
-## 2. Add your profile information
-
-Create a markdown file in your folder following the convention `content/participant/<your-name>.md`. Ex.
-
-```
-  content/participant/USERNAME.md
-```
-
-
-
-Copy the next template into your file, delete the boilerplate data, and fill in the information with yours.
-
-
-```
-name: Your Name
-institution/company: Your Company Name or Institute
-github:[**username**](https://github.com/username)
-
-```
-
-
-<div align="center">
-<h2> OR </h2>
-</div>
-
-## 3. Create / Upload Your Code / Algorithms
-
-Create/Upload your code in the folder following the convention `Add Code Here`
-- Choose an extract language folder `drop your code`
-- Below is `an example` to add file properly
-- You can follow up `any languages`
-```
-Add Code Here/PYTHON/<YOUR-FILERNAME>.py
-```
-```
-Add Code Here/C++/<YOUR-FILERNAME>.cpp
-```
-You can follow any pathway a `code` or `profile information`
-
-## 4. Wait for Pull Request to merge
-
-## 5. Celebrate - you've done your first pull request!!
-
-```py
-'''
-Always make more than 4 pull requests.
-Let's say you have made only 4 pull requests to different projects,
-but one project is excluded from hackoctoberfest event then your pull request will not be counted and 
-then you have the remaining 3 valid pull requests if these projects are not excluded.
-If you fail to make 4 pull requests then you can't get digital swags.
-I will recommend you make a pull request to your own repo which is very very safe for you.
-keep in mind that the repository has hacktoberfest topics.
-'''
-```
-
-## + Follow Me : } Quick Approval of Pull Request
-
-```py
-'''
-To get approval of the pull request much quicker and faster (`Follow Me`)🚀
-'''
-```
-
-  <a href="https://github.com/ossamamehmood">
-    <kbd>
-      <img src="https://avatars3.githubusercontent.com/ossamamehmood?size=100" width="100px;" alt=""/>
-    </kbd>
-    <br />
-    <sub><b>Ossama Mehmood</b></sub>
-  </a>
-
-<div align="right">
-  <a href="#scroll-to-top" align="right">Go to Top</a>
-</div>
-
 
