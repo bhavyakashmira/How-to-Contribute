@@ -2,7 +2,7 @@
 
 
 # HacktoberFest  `OPEN FIRST` Pull Request 🎉 
-![HacktoberFest](https://github.com/savage-programmer-byte/Hacktoberfest/raw/main/.github/logo.png)
+![HacktoberFest](logo.png)
 
 
 
