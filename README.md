@@ -1,7 +1,6 @@
 # HacktoberFest 2023 `OPEN FIRST` Pull Request 🎉 
 
 
-# HacktoberFest  `OPEN FIRST` Pull Request 🎉 
 ![HacktoberFest](logo.png)
 
 
