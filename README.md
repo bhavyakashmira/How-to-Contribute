@@ -2,7 +2,7 @@
 
 
 # HacktoberFest  `OPEN FIRST` Pull Request 🎉 
-![HacktoberFest](https://github.com/ossamamehmood/Hacktoberfest/raw/main/.github/logo.png)
+![HacktoberFest](https://github.com/savage-programmer-byte/Hacktoberfest/raw/main/.github/logo.png)
 
 
 
@@ -14,15 +14,52 @@
 
 
 
+# Contribution Rules📚:
 
-## INSTRUCTION- 
+- Create an issue about the code or contributions you want to make.
+- Go through the issues before creating one,to avoid duplicate issues
+- Once assigned,make your contributions and create your first PR
+- kindly provide a simple detail about you code or contribution,so others can learn and improve on it
+- Do NOT remove other content.
+- Styling/code can be pretty, ugly or stupid, big or small as long as it works
+- Try to keep pull requests small to minimize merge conflicts 
 
-- Fork this Repository using the button at the top on the right corner.
-- Clone your forked repository to your PC ( git clone "url from clone option.)
-- Create a new branch for your modifications (ie. `git branch new-user` and check it out `git checkout new-user` or simply do `git checkout -b new-user`)
-- Add your profile image in `static/images/` ( use drag and drop option or upload by commands.)
-- Add your profile data in `content/participant/`
-- Add your files (`git add -A`), commit (`git commit -m "added myself"`), and push (`git push origin new-user`)
-- Create a pull request.
-- Star this repository.
 
+## Getting Started 🤩🤗:
+
+- Fork this repo (button on top)
+- Clone on your local machine
+
+```terminal
+git clone https://github.com/ossamamehmood/Hacktoberfest2023.git
+```
+- Navigate to project directory.
+```terminal
+cd Hacktoberfest2023
+```
+
+- Create a new Branch
+
+```markdown
+git checkout -b my-new-branch
+```
+- Make your changes `folderName/fileName`
+
+- Add your changes
+```markdown
+git add .
+```
+- Commit your changes.
+
+```markdown
+git commit -m "Relevant message"
+```
+- Then push 
+```markdown
+git push origin my-new-branch
+```
+
+
+- Create a new pull request from your forked repository
+
+<br>
